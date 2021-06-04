@@ -12,5 +12,9 @@ MongoDB With MongoExpress for  Kubernetes
    kubectl apply -f mongo.yaml
    kubectl apply -f mongo-configmap.yaml
    kubectl apply -f mongo-express.yaml
-   
-3.  This END...!!!
+ 
+3. Done. 
+   Congratulations.!!! 
+   You have create your Mongo DataBase.
+
+4.  This END...!!!
