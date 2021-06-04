@@ -15,6 +15,6 @@ MongoDB With MongoExpress for  Kubernetes
  
 3. Done. 
    Congratulations.!!! 
-   You have create your Mongo DataBase.
+   You have create your MongoDB.
 
 4.  This END...!!!
