@@ -4,7 +4,7 @@ MongoDB With MongoExpress for  Kubernetes
 
 1. First step We need create Kubernetes Cluster (I'm using GCP)
 
-   gcloud container clusters "cluster_name"
+   gcloud container clusters create "cluster_name"
 
 2. After that we have to deploy our yaml files one by one
 
