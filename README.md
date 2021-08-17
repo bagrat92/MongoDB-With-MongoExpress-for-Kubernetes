@@ -17,4 +17,4 @@ MongoDB With MongoExpress for  Kubernetes
    Congratulations.!!! 
    You have create your MongoDB.
 
-4.  This END...!!!
+4.  The END...!!!
