@@ -8,9 +8,9 @@ MongoDB With MongoExpress for  Kubernetes
 
 2. After that we have to deploy our yaml files one by one
 
-   kubectl apply -f secret.yaml
-   kubectl apply -f mongo.yaml
-   kubectl apply -f mongo-configmap.yaml
+   kubectl apply -f secret.yaml /.....
+   kubectl apply -f mongo.yaml /.....
+   kubectl apply -f mongo-configmap.yaml /.....
    kubectl apply -f mongo-express.yaml
  
 3. Done. 
